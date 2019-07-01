@@ -1,0 +1,10 @@
+1. First Hospital
+D:Ivan Dimitrov,111111,Spec1
+P:Maria Georgieva,22,Ivan Dimitrov,2019 2 10, 2019 3 3,Diagn1,Aspirin;Analgin
+N:Penka Kirilova,Dep1,AB11
+
+2. Second Hospital
+D:Ivan Ivanov,222222,Spec2
+D:Stamat Petrov,333333
+P:Ana,27,2019 6 10, 2019 6 22,Diagn2,Aspirin;Analgin
+
